@@ -1,0 +1,37 @@
+[
+  {
+    "id": 11,
+    "name": "Trứng",
+    "cost": 20000,
+    "status": 150,
+    "sold": 105
+  },
+  {
+    "id": 12,
+    "name": "Thịt bò",
+    "cost": 129000,
+    "status": 150,
+    "sold": 125
+  },
+  {
+    "id": 13,
+    "name": "Thịt lợn",
+    "cost": 29000,
+    "status": 150,
+    "sold": 70
+  },
+  {
+    "id": 14,
+    "name": "Sữa",
+    "cost": 15000,
+    "status": 150,
+    "sold": 125
+  },
+  {
+    "id": 15,
+    "name": "Bánh mỳ",
+    "cost": 2000,
+    "status": 250,
+    "sold": 125
+  }
+]

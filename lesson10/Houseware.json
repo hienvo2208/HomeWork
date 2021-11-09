@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Nồi cơm điện",
+    "cost": 140000,
+    "status": 7,
+    "sold": 3
+  },
+  {
+    "id": 2,
+    "name": "Chảo chống dính",
+    "cost": 290000,
+    "status": 11,
+    "sold": 2
+  },
+  {
+    "id": 3,
+    "name": "Ấm siêu tốc",
+    "cost": 290000,
+    "status": 11,
+    "sold": 5
+  },
+  {
+    "id": 4,
+    "name": "Bếp ga",
+    "cost": 4700000,
+    "status": 14,
+    "sold": 3
+  },
+  {
+    "id": 5,
+    "name": "Lò vi sóng",
+    "cost": 3600000,
+    "status": 16,
+    "sold": 5
+  }
+]

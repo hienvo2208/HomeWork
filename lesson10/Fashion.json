@@ -1,0 +1,37 @@
+[
+  {
+    "id": 6,
+    "name": "Áo phông",
+    "cost": 50000,
+    "status": 50,
+    "sold": 25
+  },
+  {
+    "id": 7,
+    "name": "Quần đùi",
+    "cost": 30000,
+    "status": 50,
+    "sold": 15
+  },
+  {
+    "id": 8,
+    "name": "Tông lào",
+    "cost": 150000,
+    "status": 50,
+    "sold": 35
+  },
+  {
+    "id": 9,
+    "name": "Quần salon",
+    "cost": 10000,
+    "status": 50,
+    "sold": 5
+  },
+  {
+    "id": 10,
+    "name": "Áo khoác",
+    "cost": 15000,
+    "status": 50,
+    "sold": 33
+  }
+]

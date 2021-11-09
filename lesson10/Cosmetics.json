@@ -1,0 +1,37 @@
+[
+  {
+    "id": 11,
+    "name": "Son",
+    "cost": 140000,
+    "status": 10,
+    "sold": 5
+  },
+  {
+    "id": 12,
+    "name": "Phấn",
+    "cost": 190000,
+    "status": 10,
+    "sold": 3
+  },
+  {
+    "id": 13,
+    "name": "Nước hoa",
+    "cost": 180000,
+    "status": 10,
+    "sold": 2
+  },
+  {
+    "id": 14,
+    "name": "Sơn móng tay",
+    "cost": 170000,
+    "status": 10,
+    "sold": 8
+  },
+  {
+    "id": 15,
+    "name": "Sơn móng chân",
+    "cost": 160000,
+    "status": 10,
+    "sold": 7
+  }
+]
