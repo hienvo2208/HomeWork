@@ -11,6 +11,14 @@ public class Kitchen extends  Employee{
         this.serviceCharge = serviceCharge;
     }
 
+    public double getServiceCharge() {
+        return serviceCharge;
+    }
+
+    public void setServiceCharge(double serviceCharge) {
+        this.serviceCharge = serviceCharge;
+    }
+
     @Override
     public double calculatorSalary() {
         return this.serviceCharge + this.getBasicSalary();
