@@ -2,7 +2,7 @@ package model;
 
 import com.google.gson.annotations.SerializedName;
 
-public  class Product {
+public class Product {
     @SerializedName("id")
     private long id;
     @SerializedName("name")
@@ -18,12 +18,12 @@ public  class Product {
     @SerializedName("brand")
     private String brand;
     @SerializedName("category")
-    private String category;
+    private Category category;
 
     public Product() {
     }
 
-    public Product(long id, String name, String description, double cost, int quantity, int quantitySold, String brand, String category) {
+    public Product(long id, String name, String description, double cost, int quantity, int quantitySold, String brand, Category category) {
         this.id = id;
         this.name = name;
         this.description = description;
@@ -90,11 +90,11 @@ public  class Product {
         this.brand = brand;
     }
 
-    public String getCategory() {
+    public Category getCategory() {
         return category;
     }
 
-    public void setCategory(String category) {
+    public void setCategory(Category category) {
         this.category = category;
     }
 
@@ -108,7 +108,7 @@ public  class Product {
                 ", quantity=" + quantity +
                 ", quantitySold=" + quantitySold +
                 ", brand='" + brand + '\'' +
-                ", category='" + category + '\'' +
+                ", category=" + category +
                 '}';
     }
 }

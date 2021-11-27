@@ -46,6 +46,9 @@ public class App {
                 case 7:
                     Ex7();
                     break;
+                case 8:
+                    Ex8();
+                    break;
                 case 0:
                     flag = false;
                     break;
@@ -58,6 +61,11 @@ public class App {
 
 
 
+    }
+    // Liệt kê mỗi danh mục có bao nhiêu sản phẩm
+    private static void Ex8() {
+        ProductService productService = new ProductService();
+        productService.productPortfolio();
     }
 
     private static void Ex7() {
