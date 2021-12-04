@@ -1,8 +1,14 @@
 import controller.Controller;
+import service.Service;
+import view.Menu;
+
+import java.text.DecimalFormat;
 
 public class App {
     public static void main(String[] args) {
-        Controller controller = new Controller();
-        controller.Home();
+        Service.login();
+        Menu.mainMenu();
+        Service.mainMenu();
+
     }
 }
